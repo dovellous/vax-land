@@ -19,7 +19,10 @@ VAX Land is a blockchain-based decentralized finance (DeFi) project that leverag
 *   **App Developers:** VAX Land offers a robust development environment for app developers to create decentralized applications (dApps) that can be integrated into the ecosystem.
 *   **Gamers:** Gamers can participate in various virtual experiences, earn rewards, and engage in immersive gaming environments within the VAX Land metaverse.
 *
-*   # Advanced Sample Hardhat Project
+
+---
+
+# Advanced Sample Hardhat Project
 
 This project demonstrates an advanced Hardhat use case, integrating other tools commonly used alongside Hardhat in the ecosystem.
 
